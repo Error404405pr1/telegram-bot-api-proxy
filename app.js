@@ -1,5 +1,5 @@
 // telegram bot token
-const bot_token = '1234567890:ABCDEFabcdef1234567890abcdef1234567890'; 
+const bot_token = '6145431563:AAFfQLirpkpKT-U6DW-twdiukBs50TFNkvA'; 
 
 const express = require('express')
 const path = require('path')
